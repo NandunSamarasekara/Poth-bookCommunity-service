@@ -189,10 +189,11 @@ Scan the QR code with the **Expo Go** app, or press `w` to open in the web brows
 
 ---
 
----
-## Development status
+## Deployment status
 
 * **Backend:** https://poth-bookcommunity-service-production.up.railway.app
 * **Frontend** https://poth-bookcommunityservice.netlify.app/
+
+  ---
 
 ## All rights reserved
